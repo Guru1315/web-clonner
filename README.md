@@ -34,12 +34,6 @@ install dependencies, and run npm run check. Leave it ready for me
 to clone a website.
 ```
 
-**Or create your own GitHub repository:**
-
-[![Use this template](https://img.shields.io/badge/Use_this_template-Create_your_copy-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JCodesMore/ai-website-cloner-template/generate)
-
-Give it a name and click **Create repository**. Then give your agent the new repository's link and ask it to clone it onto your computer, install dependencies, and run `npm run check`.
-
 ### 2. Clone a website
 
 Open the project in your agent with browser access enabled. In Claude Code or Cursor, run:
