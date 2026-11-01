@@ -18,7 +18,7 @@ Browse the [open issues](https://github.com/JCodesMore/ai-website-cloner-templat
 **Prerequisites:** [Node.js](https://nodejs.org/) 24+.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/ai-website-cloner-template.git
+git clone https://github.com/YOUR-USERNAME/web-clonner-template.git
 cd ai-website-cloner-template
 npm ci
 ```
