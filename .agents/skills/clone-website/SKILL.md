@@ -19,7 +19,7 @@ Record a short source-to-local route map and the files each page owns. Follow th
 - When adding pages to an existing clone, extend its layout and global styles without replacing the styles used by existing pages.
 - Use separate apps for different origins unless the user wants a combined app. Combined sites need distinct route prefixes and scoped fonts, styles, and layout.
 - Escape literal URL segments that conflict with framework syntax (`_`, `@`, brackets, parentheses) using its supported mechanism, then verify the actual requested URL.
-
+  
 Existing clones are useful starting points: compare them with the current source and record what was reused. Finish when every requested URL has a destination and file ownership is clear.
 
 ## 2. Observe before building
