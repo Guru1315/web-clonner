@@ -133,9 +133,6 @@ docker compose up dev --build # run the app in dev mode on port 3001
 
 The project keeps one portable Agent Skill at `.agents/skills/clone-website/`. Codex, Cursor, and OpenCode read it directly. Claude Code uses the small command bridge at `.claude/commands/clone-website.md` so `/clone-website` and its arguments continue to work without exposing a duplicate skill to the other agents.
 
-## Star History
-
-![Star History Chart](docs/assets/star-history.png)
 
 ## License
 
