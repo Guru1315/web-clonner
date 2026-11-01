@@ -10,8 +10,6 @@ Give your AI coding agent a URL and watch it recreate the website as a clean Nex
 
 [Quick Start](#quick-start) · [Watch Demo](#demo) · [Supported Platforms](#supported-platforms)
 
-<a href="https://github.com/JCodesMore/ai-website-cloner-template/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT License" /></a> <a href="https://github.com/JCodesMore/ai-website-cloner-template"><img src="https://img.shields.io/github/stars/JCodesMore/ai-website-cloner-template?style=flat" alt="Stars" /></a> <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JCodesMore/ai-website-cloner-template/badges/token-badge.json" alt="tokens" />
-
 </div>
 
 ---
